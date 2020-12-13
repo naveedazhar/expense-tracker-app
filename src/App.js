@@ -10,6 +10,7 @@ import { GlobalProvider } from "./context/GlobalState";
 import ShowInstrucion from "./components/ShowInstrunction";
 
 // app ready to be deployed on surge
+// checking github action yaml file
 
 function App() {
   return (

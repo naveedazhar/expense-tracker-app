@@ -8,6 +8,9 @@ import { AddTransaction } from "./components/AddTransaction";
 
 import { GlobalProvider } from "./context/GlobalState";
 import ShowInstrucion from "./components/ShowInstrunction";
+
+// app ready to be deployed on surge
+
 function App() {
   return (
     <GlobalProvider>

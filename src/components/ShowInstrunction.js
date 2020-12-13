@@ -70,8 +70,12 @@ export default function ShowInstrucion() {
             This project is created based on lecture of Mr. Muhammad Mohsin The
             project also does the following: <br />
             Show instruction regarding use of system <br />
-            Clears the form <br />
             Show "no transaction" message
+            <br />
+            Input validation using InputProps on TextField component of Material
+            UI
+            <br />
+            Clear form after successfully adding new transaction
             <br />
             Material UI
             <br /> ...
